@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="availableAppsItem">
+        <item name="android:layout_width">70dp</item>
+        <item name="android:layout_height">70dp</item>
+
+
+    </style>
+
+    <style name="availableAppsItembig">
+        <item name="android:layout_width">100dp</item>
+        <item name="android:layout_height">100dp</item>
+
+
+    </style>
+
+        <style name="buttomlayout">
+            <item name="android:layout_width">100dp</item>
+            <item name="android:layout_height">100dp</item>
+
+
+        </style>
+
+</resources>

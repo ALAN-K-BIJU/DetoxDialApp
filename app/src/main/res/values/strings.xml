@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">PhoneFreedom</string>
+    <string name="autosvar">Auto-svar tekst</string>
+    <string name="holderfrifratlf">Jeg tjekker min telefon igen Kl:</string>
+    <string name="write_msg">Skriv beskeden her</string>
+    <string name="fra">Fra</string>
+    <string name="til">Time</string>
+    <string name="start" translatable="false"> </string>
+    <string name="end" translatable="false"> </string>
+    <string name="settings">Indstillinger</string>
+    <string name="add_time">Tilføj tid</string>
+    <string name="auto_reply">Auto svar tekst</string>
+    <string name="title_activity_predefined_messages" translatable="false">PredefinedMessagesActivity</string>
+
+    <!-- keys and app internal strings -->
+    <string name="key_pref_app_language" translatable="false">pref_app_language</string>
+    <string name="pref_show_notification_replied_msg" translatable="false">pref_show_notification_replied_msg</string>
+    <string name="pref_auto_start_permission" translatable="false">pref_auto_start_permission</string>
+    <string name="pref_is_append_watomatic_attribution" translatable="false">pref_is_append_watomatic_attribution</string>
+    <string name="pref_show_foreground_service_notification" translatable="false">pref_show_foreground_service_notification</string>
+
+
+    <!--Autostart Permission Dialog-->
+    <string name="auto_start_permission_dialog_title" translatable="false">AutoStart Permission</string>
+    <string name="running_in_the_background" translatable="false">Running in the background</string>
+    <string name="auto_start_permission_dialog_message" translatable="false">Enable \"Auto Start\" permission in device settings to allow Watomatic to start on device restart.</string>
+    <string name="device_based_settings_message" translatable="false">Note: Settings may vary or may not be available based on your device</string>
+    <string name="setting_not_available_for_device" translatable="false">This setting is not available or may not be needed for your device.</string>
+    <string name="enable_auto_start_setting" translatable="false">Proceed</string>
+    <string name="decline_auto_start_setting" translatable="false">Cancel</string>
+    <string name="app_not_installed_text" translatable="false">Not installed</string>
+    <string name="advanced_settings" translatable="false">Advanced settings</string>
+    <string name="key_pref_advanced_settings" translatable="false">pref_advanced_settings</string>
+    <string name="contact_based_reply" translatable="false">Contact based replies</string>
+    <string name="pref_reply_contacts" translatable="false">pref_reply_contacts</string>
+    <string name="contact_reply_type" translatable="false">Reply to</string>
+    <string name="blacklist" translatable="false">Everyone except selected contacts</string>
+    <string name="whitelist" translatable="false">Nobody except selected contacts</string>
+    <string name="pref_code_blacklist" translatable="false">pref_blacklist</string>
+    <string name="pref_code_whitelist" translatable="false">pref_whitelist</string>
+    <string name="pref_reply_contacts_type" translatable="false">pref_reply_contacts_type</string>
+    <string name="enable_contact_based_reply" translatable="false">Enable contact based replies</string>
+    <string name="select_contacts" translatable="false">Select contacts</string>
+    <string name="key_pref_select_contacts" translatable="false">pref_select_contacts</string>
+    <string name="contact_selector" translatable="false">Contact selector</string>
+    <string name="select_all" translatable="false">Select all</string>
+    <string name="select_none" translatable="false">Select none</string>
+    <string name="contact_permission_dialog_msg" translatable="false">Contact read access is required in order to filter names and enable this feature. Do you want to continue?</string>
+    <string name="contact_permission_dialog_proceed" translatable="false">Proceed</string>
+    <string name="contact_permission_dialog_cancel" translatable="false">Cancel</string>
+    <string name="undo" translatable="false">Undo</string>
+    <string name="all_contacts_selected" translatable="false">All contacts selected</string>
+    <string name="all_contacts_unselected" translatable="false">All contacts unselected</string>
+    <string name="title_activity_video_clip" translatable="false">VideoClipActivity</string>
+    <string name="title_activity_video2" translatable="false">VideoActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label" translatable="false">First Fragment</string>
+    <string name="second_fragment_label" translatable="false">Second Fragment</string>
+    <string name="next" translatable="false">Next</string>
+    <string name="previous" translatable="false">Previous</string>
+
+    <string name="hello_first_fragment" translatable="false">Hello first fragment</string>
+    <string name="hello_second_fragment" translatable="false">Hello second fragment. Arg: %1$s</string>
+    <string name="change_language">Change Language</string>
+    <string name="don_t_disturb_setting">Don\'t disturb Setting</string>
+    <string name="screen_animation">Screen animation</string>
+    <string name="nulstil_sms_package">Nulstil SMS package</string>
+    <string name="reset_sms_package">Reset SMS Package</string>
+    <string name="edit">Edit</string>
+    <string name="edit_message">Edit message</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="don_t_disturb">Don\'t-Disturb:</string>
+
+
+</resources>
